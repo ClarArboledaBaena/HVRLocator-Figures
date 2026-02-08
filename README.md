@@ -1,0 +1,1 @@
+Scripts used to generate the figures for the paper "HVRLocator: A Computationally Efficient Tool for Identifying Hypervariable Regions in Large 16S rRNA Datasets", https://doi.org/10.1101/2025.07.24.666487 
