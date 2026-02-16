@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/nextcloud/Documents/MiCoDa/1.MiCoDa_V2_EVECluster/2.DetectPrimer_FelipeScript/0.FinalTables_Joao/Results/13_Jun/Github/Figure_2/")
-
 ################################################################################
 ################################################################################
 # FIGURE 2: Alignment positions across 16S rRNA regions and sequencing setups
@@ -412,4 +409,5 @@ plot_grid(Figure2A, Figure2B, Figure2C, Figure2D, ncol = 2, nrow = 2, labels = c
 
 ################################################################################
 ################################################################################
+
 ################################################################################
