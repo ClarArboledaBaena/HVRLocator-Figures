@@ -1,7 +1,7 @@
 ################################################################################
 # FIGURE 1: Correlation between number of samples and runtime
 # Open data frame
-df <- readxl::read_xlsx("13_Jun/Processing_time_all_datasets.xlsx", sheet = 7)
+df <- readxl::read_xlsx("Processing_time_all_datasets.xlsx", sheet = 7)
 names(df)
 str(df)
 df$Threshold <- as.character(df$Threshold)
