@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/nextcloud/Documents/MiCoDa/1.MiCoDa_V2_EVECluster/2.DetectPrimer_FelipeScript/0.FinalTables_Joao/Results/13_Jun/Github/Figure_4/")
-
 ################################################################################
 ################################################################################
 # FIGURE 4: Application of HVRLocator for the selection of V4 16S rRNA gene metabarcoding samples from MiCoDa V2
@@ -164,7 +161,6 @@ p3 <- ggplot(sample_count, aes(x = "", y = Count, fill = Label)) +
        title = "") +
   theme_void()
 
-
 plot_grid(p3, nrow = 1, labels = c("B"))
 
 
@@ -202,7 +198,6 @@ start <- ggplot(combined_data, aes(x = Predicted_HV_region_start, y = Coverage_H
   theme(axis.text.x = element_text(angle = 0, hjust = 1,face ="bold" ),
         legend.position = "none")
 start
-
 
 
 
