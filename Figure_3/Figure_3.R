@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/nextcloud/Documents/MiCoDa/1.MiCoDa_V2_EVECluster/2.DetectPrimer_FelipeScript/0.FinalTables_Joao/Results/13_Jun/Github/Figure_3/")
-
 ################################################################################
 ################################################################################
 # FIGURE 3: Differences in 16S rRNA gene coverage using the same primer set (Primer 515R-806R for V4 region) but different sequencing setups.
@@ -39,8 +36,6 @@ start <- ggplot(combined_data, aes(x = Predicted_HV_region_start, y = Coverage_H
   )
 start
 
-################################################################################
-################################################################################
 ################################################################################
 end <- ggplot(combined_data, aes(x = Predicted_HV_region_end, y = Coverage_HV_region_end, fill = Predicted_HV_region_end)) +
   geom_boxplot() +
