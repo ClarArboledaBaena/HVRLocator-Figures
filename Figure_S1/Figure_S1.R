@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/Documents/MiCoDa/1.MiCoDa_V2_EVECluster/2.DetectPrimer_FelipeScript/0.FinalTables_Joao/Results/13_Jun/Github/Figure_S1")
-
 ################################################################################
 ################################################################################
 # FIGURE S1: A) Variation in gene coverage across sequences, B) Number of samples in which primer assignment matched the metadata.
