@@ -1,4 +1,4 @@
-Scripts used to generate the figures for the paper "HVRLocator: A Computationally Efficient Tool for Identifying Hypervariable Regions in Large 16S rRNA Datasets", https://doi.org/10.1101/2025.07.24.666487 
+Scripts used to generate the figures Figure 1-4 and Figure S1 for the paper "HVRLocator: A Computationally Efficient Tool for Identifying Hypervariable Regions in Large 16S rRNA Datasets", https://doi.org/10.1101/2025.07.24.666487 
 
 ## License
 
